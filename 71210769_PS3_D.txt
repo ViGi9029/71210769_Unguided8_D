@@ -1,0 +1,11 @@
+rumus nilai faktorial
+
+n! = n*(n-1)*(n-2)...
+
+inisialisasi rumus faktorial
+inisialisasi nilai n <= 0
+
+if n sama dengan 0 atau lebih dari 0
+	tampilkan "n! = n*(n-1)*(n-2)..."
+else
+	tampilkan "error101"
